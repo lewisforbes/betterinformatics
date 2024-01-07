@@ -6,6 +6,7 @@ pinned: true
 learn: false
 ---
 
+- View the [calendar](https://homepages.inf.ed.ac.uk/hshimoda/proj/calendar/) containing important dates. 
 - You can manage citations with [JabRef](https://www.jabref.org) or [Zotero](https://www.zotero.org)
 - Use [DBLP](https://dblp.org) to generate .bib citations over Google Scholar
 - Write your Intro, Conclusion and Abstract last — your project might change by the time you've written everything else.
